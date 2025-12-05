@@ -54,6 +54,7 @@ tenant-feedback-intel-llm/
    ├─ rag_pipeline.py
    ├─ analysis.py
    ├─ api.py
+   ├─ main.py
 └─ tests/
    ├─ __init__.py
    ├─ conftest.py
