@@ -1,0 +1,11 @@
+tenant_id,channel,context_id,text
+T001,email,REQ-1001,"The water leakage in my bathroom hasn't been fixed for 3 days. I'm really frustrated."
+T002,chat,REQ-1002,"My rent payment was deducted twice this month. Please refund the extra amount."
+T003,review,REQ-1003,"The security staff is very polite, but the lift is frequently not working."
+T004,email,REQ-1004,"There is loud noise from the neighbours every night past 11 PM. It's affecting my sleep."
+T005,chat,REQ-1005,"The maintenance team was very quick in resolving my AC issue. Really appreciate it!"
+T006,review,REQ-1006,"Common areas are not cleaned regularly. The corridors look dirty most of the time."
+T007,email,REQ-1007,"Internet in my flat is very slow and keeps disconnecting during my work calls."
+T008,chat,REQ-1008,"I love the garden area and kids' play zone. My children really enjoy it here."
+T009,review,REQ-1009,"Parking management is chaotic. People often park in my allotted spot."
+T010,email,REQ-1010,"I raised a ticket for my broken window but no one has visited yet. This is disappointing."
