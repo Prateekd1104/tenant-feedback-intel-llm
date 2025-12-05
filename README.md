@@ -47,19 +47,19 @@ tenant-feedback-intel-llm/
 │  └─ kb_policies_sample.csv
 ├─ notebooks/
 │  └─ tenant_feedback_llm_demo.ipynb
-├─ src/
+├─ tests/
+   ├─ __init__.py
+   ├─ conftest.py
+   ├─ test_rag_pipeline.py
+   ├─ test_analysis.py
+   ├─ test_api.py
+└─ src/
    ├─ __init__.py
    ├─ config.py
    ├─ models_llm.py
    ├─ rag_pipeline.py
    ├─ analysis.py
    ├─ api.py
-   ├─ main.py
-└─ tests/
-   ├─ __init__.py
-   ├─ conftest.py
-   ├─ test_rag_pipeline.py
-   ├─ test_analysis.py
-   └─ test_api.py
    └─ main.py
 
+   └─ main.py
