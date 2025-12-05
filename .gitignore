@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# Environments
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# ChromaDB
+chroma_db/
+
+# Credentials
+.env
+
+# Notebooks
+.ipynb_checkpoints/
